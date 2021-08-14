@@ -1,2 +1,2 @@
-# CRUD PROJECT
- A Phonebook developer with NodeJS, Express and MongoDB.
+# Phonebook
+ Developer with NodeJS, Express and MongoDB.
